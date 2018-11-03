@@ -1,0 +1,24 @@
+{
+  "name": "mine-finder",
+  "version": "1.0.0",
+  "description": "full-stack web app minesweeper clone with a leaderboard and stuff",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxryan/mine-finder.git"
+  },
+  "author": "Michael Ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxryan/mine-finder/issues"
+  },
+  "homepage": "https://github.com/mxryan/mine-finder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.41.0"
+  }
+}
